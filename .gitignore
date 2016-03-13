@@ -30,3 +30,5 @@ platforms/*
 plugins/*
 *.keystore
 *.key
+*~
+*.tmp
